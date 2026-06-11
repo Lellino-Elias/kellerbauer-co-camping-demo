@@ -17,7 +17,6 @@ const kellerbauer: CampsiteConfig = {
   brandKind: "Wohnmobil-Stellplatz",
   regionLong: "Altenmarkt-Zauchensee · Ski Amadé · Salzburger Land",
 
-  theme: "alpin",
   heroVariant: "center",
 
   claim: "Ruhig am Bauernhof — mitten in Ski Amadé",
@@ -131,7 +130,7 @@ const kellerbauer: CampsiteConfig = {
     telHref: "tel:+4367762312010",
     mail: "stellplatz@kellerbauer.co.at",
     adresse: "Kellerdörfl 18 · 5541 Altenmarkt im Pongau · Salzburg",
-    coords: { lat: 47.37043, lng: 13.42903 },
+    coords: { lat: 47.370304, lng: 13.429376 },
   },
 
   languages: ["DE"],
