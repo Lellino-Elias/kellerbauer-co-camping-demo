@@ -34,12 +34,12 @@ const kellerbauer: CampsiteConfig = {
   pillars: [
     {
       title: "Bauernhof am Waldrand",
-      text: "Der Platz liegt in einer kleinen Bauernhofsiedlung am Waldrand — abseits vom Durchzugsverkehr und doch nur wenige Minuten vom Ortszentrum Altenmarkt.",
+      text: "Der Platz liegt ruhig in einer Bauernhofsiedlung am Waldrand — nur wenige Minuten vom Ortszentrum Altenmarkt.",
       image: { src: `${IMG}/hero-845620a6cb.webp`, alt: "Luftaufnahme des Stellplatzes Kellerbauer in Bauernhoflage am Waldrand" },
     },
     {
       title: "Dachstein-Blick im Winter",
-      text: "Mitten in der Bergwelt: Im Winter öffnet sich vom Stellplatz der Blick auf den verschneiten Dachstein — klare Luft, Stille, und das Skigebiet nur 1,5 km entfernt.",
+      text: "Im Winter öffnet sich vom Stellplatz der Blick auf den verschneiten Dachstein — klare Luft, Stille, Skigebiet 1,5 km.",
       image: { src: `${IMG}/amenity-f240750165.webp`, alt: "Wohnmobil am Stellplatz Kellerbauer im tiefen Winter mit Blick auf den verschneiten Dachstein" },
     },
     {
@@ -88,7 +88,7 @@ const kellerbauer: CampsiteConfig = {
     items: [
       {
         title: "Ski Amadé direkt vor der Tür",
-        text: "Der gratis Skibus hält direkt am Platz. Nur 1,5 km bis zur Skischaukel Altenmarkt-Radstadt — 7 km nach Flachau-Wagrain-St. Johann, 10 km bis Zauchensee-Flachauwinkl. Der beheizte Schischuhtrockner am Platz macht jeden Skitag leicht.",
+        text: "Der Skibus hält direkt am Platz; die Skischaukel Altenmarkt-Radstadt ist 1,5 km entfernt — der beheizte Schischuhtrockner wartet.",
         image: { src: `${IMG}/activity-3f1b401dd4.webp`, alt: "Bergstation der Skischaukel Altenmarkt-Radstadt mit Gondel und Skifahrern auf der Piste im Skigebiet Ski Amadé" },
       },
     ],
